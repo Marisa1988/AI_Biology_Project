@@ -6,4 +6,4 @@ The dataset used in this project includes data for the estimation of obesity lev
 
 The data and complete information about the variables is available in: https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition
 
-The objective of this notebook is to develop a model to predict obesity. The first model predicts presence or absence of obesity, which includes every level after Normal Weight, and the second model predicts the specific level. 
+The objective of this notebook is to show how to develop a model to predict obesity. The first model predicts presence or absence of obesity, which includes every level after Normal Weight, and the second model predicts the specific level. 
