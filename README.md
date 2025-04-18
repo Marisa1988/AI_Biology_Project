@@ -14,14 +14,19 @@ The objective of this notebook is to show how to develop a model to predict over
 2. Import required libraries
 3. Data pre-processing
 4. Overweight / Not Overweight Model
-4.1 Model set up
-4.2 Hyperparamter tuning
-4.3 Results
-6. Weight level Model
-5.1 Model set up
-5.2 Hyperparamter tuning
-5.3 Results
-5.4 Use Suport Vector Machines (SVM)
+    
+    4.1 Model set up
+    4.2 Hyperparamter tuning
+    4.3 Results
+
+5. Weight level Model
+
+    5.1 Model set up
+    5.2 Hyperparamter tuning
+    5.3 Results
+    5.4 Use Suport Vector Machines (SVM)
+
 6. Discussion
-6.1 Summary of Model Performance: Predicting Overweight / Not Overweight
-6.2 Summary of Model Performance: Predicting WeightLevel
+    
+    6.1 Summary of Model Performance: Predicting Overweight / Not Overweight
+    6.2 Summary of Model Performance: Predicting WeightLevel
