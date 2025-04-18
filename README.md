@@ -6,4 +6,22 @@ The dataset used in this project includes data for the estimation of obesity lev
 
 The data and complete information about the variables is available in: https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition
 
-The objective of this notebook is to show how to develop a model to predict obesity. The first model predicts presence or absence of obesity, which includes every level after Normal Weight, and the second model predicts the specific level. 
+The objective of this notebook is to show how to develop a model to predict overweight and level of weight based on the attributes.
+
+## Content:
+
+1. Introduction
+2. Import required libraries
+3. Data pre-processing
+4. Overweight / Not Overweight Model
+4.1 Model set up
+4.2 Hyperparamter tuning
+4.3 Results
+6. Weight level Model
+5.1 Model set up
+5.2 Hyperparamter tuning
+5.3 Results
+5.4 Use Suport Vector Machines (SVM)
+6. Discussion
+6.1 Summary of Model Performance: Predicting Overweight / Not Overweight
+6.2 Summary of Model Performance: Predicting WeightLevel
