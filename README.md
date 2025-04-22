@@ -1,6 +1,6 @@
 # AI in Biology Final Project
 
-/workspaces/AI_Biology_Project/Data/healthyweightextresources.jpg
+![Healthy Weight Resources](Data/healthyweightextresources.jpg "Healthy Weight Resources")
 
 ## Group: Saba Jawata and Marisabel Morales
 
